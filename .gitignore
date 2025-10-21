@@ -1,0 +1,12 @@
+# Anaconda environment
+anaconda3/envs/tf/
+
+# Python and Jupyter files
+__pycache__/
+*.ipynb_checkpoints/
+
+# Dataset and model files
+data/
+*.onnx
+*.pth
+*.tar
